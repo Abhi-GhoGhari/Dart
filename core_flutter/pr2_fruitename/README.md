@@ -1,16 +1,9 @@
-# pr2_fruitename
+<h1>pr-2<h2>
+<h2>Description:<h2>
 
-A new Flutter project.
+<h3>• Display list of fruits as shown in image.
 
-## Getting Started
+• Also play emojis in front of each fruit name.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Make sure to apply different colors for all fruits with proper text styling.<h3>
+![Screenshot 2024-01-10 194659](https://github.com/Abhi-GhoGhari/Dart/assets/143987211/b67cccca-66e4-4334-ae1c-bba01f418d64)
